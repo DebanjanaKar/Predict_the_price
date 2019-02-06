@@ -1,0 +1,9 @@
+For test rmse using mse:
+Learnt Parameters = [ 0.01711162  0.04255122  0.02939311  0.04417744  0.48779875] 
+RMSE = 0.857281949314
+For test rmse using mce :
+Learnt Parameters = [ nan  nan  nan  nan  nan] 
+RMSE = nan
+For test rmse using ame :
+Learnt Parameters = [-0.14853406  0.04686832  0.06020968  0.05382393  0.30190176] 
+RMSE = 0.881156504046
