@@ -1,5 +1,5 @@
 # Predict_the_price
-Prediction of house prices based on different features - experimenting with different optimization algorithms, feature combinations and cost functions.
+Prediction of house prices based on different features - experimenting with different optimization algorithms, feature combinations and cost functions. This is a basic machine learning exercise and does not make use of any additional machine learning libraries. The ML modules have been built from scratch.
 
 #### Instructions :
 
